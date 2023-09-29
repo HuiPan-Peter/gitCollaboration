@@ -1,1 +1,1 @@
-# gitCollaboration
+# This is a conflict
